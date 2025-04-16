@@ -1,4 +1,4 @@
-# Typical-Testors
+# Typical-Testors-Calculator
 
 Typical Testors Calculator using BT and YYC algorithms.
 
