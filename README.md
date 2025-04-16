@@ -1,6 +1,6 @@
 # Typical-Testors-Calculator
 
-Typical Testors Calculator using BT and YYC algorithms.
+A basic implementation for a Typical Testors Calculator using BT and YYC algorithms.
 
 For a better comprehension of these algorithms, check these articles:
 
